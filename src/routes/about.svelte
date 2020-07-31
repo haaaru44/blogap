@@ -30,13 +30,8 @@
     <!-- <figcaption>Photo by <a href="https://unsplash.com/@florianklauer" target="_blank">Florian Klauer</a> on Unsplash</figcaption> -->
   </figure>
   <!-- <p>Text placeholder via <a href="https://jeffsum.com/" target="_blank">Jeffsum</a>.</p> -->
-  <p>このブログサイトにそっくりなFlutterWebサイトも制作中</p>
-  <p>
-    You really think you can fly that thing? You know what? It is beets. I've
-    crashed into a beet truck. Forget the fat lady! You're obsessed with the fat
-    lady! Drive us out of here! Is this my espresso machine? Wh-what is-h-how
-    did you get my espresso machine?
-  </p>
+  <p />
+  <p>このブログサイトにそっくりなFlutterWebサイトも制作中。</p>
   <p>
     Hey, you know how I'm, like, always trying to save the planet? Here's my
     chance. Hey, take a look at the earthlings. Goodbye! I was part of something
