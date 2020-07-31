@@ -66,15 +66,11 @@
 
 <div class="home-container">
   <div class="home-copy">
-    <h1>Welcome to my new Sapper Blog</h1>
+    <h1>GREAT SUCCESS!</h1>
     <p>
-      Check out the docs on
-      <a
-        href="https://www.github.com/Charca/sapper-blog-template"
-        target="_blank">
-        GitHub
-      </a>
-      to get started.
+      Check out the
+      <a href="https://twitter.com/hash2666" target="_blank">Twitter.</a>
+      Have fun with Sapper!
     </p>
   </div>
 
