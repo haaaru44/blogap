@@ -66,7 +66,7 @@
 
 <div class="home-container">
   <div class="home-copy">
-    <h1>Welcome to your new Sapper Blog</h1>
+    <h1>Welcome to my new Sapper Blog</h1>
     <p>
       Check out the docs on
       <a
