@@ -61,7 +61,7 @@
 </style>
 
 <svelte:head>
-  <title>Sapper Blog Template</title>
+  <title>Sapper Blog</title>
 </svelte:head>
 
 <div class="home-container">

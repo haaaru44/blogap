@@ -2,13 +2,13 @@
   export async function preload({ params, query }) {
     // the `slug` parameter is available because
     // this file is called [slug].html
-    const res = await this.fetch(`blog/${params.slug}.json`);
-    const data = await res.json();
+    const res = await this.fetch(`blog/${params.slug}.json`)
+    const data = await res.json()
 
     if (res.status === 200) {
-      return { post: data };
+      return { post: data }
     } else {
-      this.error(res.status, data.message);
+      this.error(res.status, data.message)
     }
   }
 </script>
@@ -28,7 +28,7 @@
   }
 
   header p {
-    color: #AAA;
+    color: #aaa;
     text-transform: uppercase;
     font-family: Rubik, sans-serif;
     font-weight: 600;
@@ -54,5 +54,5 @@
     {@html post.html}
   </article>
   <hr />
-  <Bio />
+  <!-- <Bio /> -->
 </div>
